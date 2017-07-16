@@ -1,0 +1,5 @@
+# Ignoring generated java code
+*.java
+
+# Ignoring build directories
+build
